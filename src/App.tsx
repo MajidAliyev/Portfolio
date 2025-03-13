@@ -328,7 +328,7 @@ function App() {
                 </div>
                 <div>
                   <h4 className="font-bold mb-2">Study Program</h4>
-                  <p className="text-light/70">Media Design (Dual)</p>
+                  <p className="text-light/70">Bs.C. Embedded Systems Engineering, Uni Freiburg</p>
                 </div>
                 <div>
                   <h4 className="font-bold mb-2">Languages</h4>
